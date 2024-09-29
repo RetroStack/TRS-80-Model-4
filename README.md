@@ -2,7 +2,7 @@
 
 Central repository for all TRS-80 Model 4 projects on RetroStack
 
-- [Parts](https://www.github.com/RetroStack/TRS-80-Model-I-Parts) - Recreated TRS-80 Model 4 parts printable on a 3D printer or other ways
+- [Parts](https://www.github.com/RetroStack/TRS-80-Model-4-Parts) - Recreated TRS-80 Model 4 parts printable on a 3D printer or other ways
 
 Related Projects
 - [TRS-80 USB Keyboard Adapter](https://github.com/RetroStack/TRS-80-USB-Keyboard) - Provides the ability to connect an original TRS-80 keyboard to a USB host (e.g. Raspberry Pi for emulation)
